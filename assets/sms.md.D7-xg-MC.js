@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s}from"./chunks/framework.CymZkmvY.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sms.md","filePath":"sms.md","lastUpdated":null}'),a={name:"sms.md"};function r(o,n,c,m,d,p){return t(),s("div")}const l=e(a,[["render",r]]);export{i as __pageData,l as default};

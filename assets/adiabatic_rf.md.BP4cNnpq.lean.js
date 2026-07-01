@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as e}from"./chunks/framework.CymZkmvY.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"adiabatic_rf.md","filePath":"adiabatic_rf.md","lastUpdated":null}'),r={name:"adiabatic_rf.md"};function c(i,o,s,d,n,_){return t(),e("div")}const l=a(r,[["render",c]]);export{p as __pageData,l as default};
