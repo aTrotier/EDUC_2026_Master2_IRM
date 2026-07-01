@@ -1,3 +1,6 @@
-# EDUC_2026_Master2_IRM.jl
+# Biomatériaux et dispositifs médicaux
+## Spécialisation IRM
 
-Documentation for `EDUC_2026_Master2_IRM.jl`.
+Bienvenue sur le site 
+
+Welcome!
